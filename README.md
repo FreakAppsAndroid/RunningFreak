@@ -1,4 +1,4 @@
-# RunningFreak {[Download .apk]()}
+# RunningFreak {[Download .apk](https://play.google.com/store/apps/details?id=com.thefreakapps.therunningfreak)}
 Launch #1 | The Running Freak | 16.01.2017 | Google Play Store
 
 ## Now Live on the Play Store!!
